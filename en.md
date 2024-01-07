@@ -1,3 +1,1 @@
-## Name
-
-Takuma Kurosawa
+# Takuma Kurosawa's curriculum vitae
