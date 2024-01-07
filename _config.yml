@@ -1,3 +1,6 @@
 # jekyll config
 theme: minima
 title: Curriculum vitae
+header_pages:
+  - en.md
+  - ja.md
