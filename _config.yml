@@ -4,6 +4,8 @@ title: Curriculum vitae
 header_pages:
   - en.md
   - ja.md
+disqus:
+  shortname: comments
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
