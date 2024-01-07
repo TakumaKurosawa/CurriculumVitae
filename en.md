@@ -1,3 +1,3 @@
-# Takuma Kurosawa's curriculum vitae
+## Name
 
-## English version
+Takuma Kurosawa
