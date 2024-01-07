@@ -1,11 +1,16 @@
 # jekyll config
 theme: minima
 title: Curriculum vitae
+author: Takuma Kurosawa
+email: tennis.takumax@gmail.com
 header_pages:
   - en.md
   - ja.md
 disqus:
   shortname: comments
+# social links
+twitter_username: TakumaKurosawa
+github_username:  TakumaKurosawa
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
