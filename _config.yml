@@ -11,6 +11,7 @@ disqus:
 # social links
 twitter_username: TakumaKurosawa
 github_username:  TakumaKurosawa
+linkedin_username: TakumaKurosawa
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
