@@ -4,8 +4,8 @@ title: Curriculum vitae
 author: Takuma Kurosawa
 email: tennis.takumax@gmail.com
 header_pages:
-  - en.md
-  - ja.md
+  - README.md
+  - README_en.md
 disqus:
   shortname: comments
 google_analytics: G-NRZH4MECQX
