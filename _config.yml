@@ -1,4 +1,5 @@
 # jekyll config
+google_analytics: G-12H3L3F904
 theme: minima
 title: Curriculum vitae
 author: Takuma Kurosawa
@@ -8,7 +9,6 @@ header_pages:
   - README_en.md
 disqus:
   shortname: comments
-google_analytics: G-NRZH4MECQX
 # social links
 twitter_username: TakumaKurosawa
 github_username:  TakumaKurosawa
