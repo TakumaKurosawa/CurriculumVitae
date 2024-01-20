@@ -1,3 +1,7 @@
+---
+title: 日本語
+---
+
 ## 基本情報
 - Name:
 - Blog: [ブログ名](http://example.com)

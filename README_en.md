@@ -1,3 +1,7 @@
+---
+title: English
+---
+
 ## Basic Information
 - Name:
 - Blog: [Blog Name](http://example.com)
