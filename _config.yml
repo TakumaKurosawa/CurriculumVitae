@@ -8,6 +8,7 @@ header_pages:
   - en.md
 disqus:
   shortname: comments
+google_analytics: G-12H3L3F904
 # social links
 twitter_username: TakumaKurosawa
 github_username:  TakumaKurosawa
