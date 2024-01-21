@@ -2,10 +2,14 @@
 title: English
 ---
 
-## Basic Information
-- Name:
-- Blog: [Blog Name](http://example.com)
-- X(Twitter): @AccountName https://example.com/Account
+## Profile
+- Name: Takuma Kurosawa
+- Job: Backend Engineer
+- Company: CyberAgent, Inc.
+- Links
+  - X(Twitter): https://twitter.com/TakumaKurosawa
+  - Qiita: https://qiita.com/TakumaKurosawa
+  - GitHub: https://github.com/TakumaKurosawa
 
 ## Skills
 ### Languages
