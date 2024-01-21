@@ -3,9 +3,13 @@ title: 日本語
 ---
 
 ## 基本情報
-- Name:
-- Blog: [ブログ名](http://example.com)
-- X(Twitter): @アカウント名 https://example.com/アカウント
+- 名前: 黒澤 拓磨
+- 職種: バックエンドエンジニア
+- 所属: 株式会社サイバーエージェント
+- リンク
+  - X(Twitter): https://twitter.com/TakumaKurosawa
+  - Qiita: https://qiita.com/TakumaKurosawa
+  - GitHub: https://github.com/TakumaKurosawa
 
 ## スキル
 ### 言語
