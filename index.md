@@ -13,13 +13,29 @@ title: 日本語
 
 ## スキル
 ### 言語
-- など
+- Go
+- Typescript
 
 ### フレームワーク、Middleware、Hardware
-- など
+- AWS
+- Docker
+- MySQL
+- Redis
+- gRPC
+- REST
+- Vue.js
+- Nuxt.js
+- Vite
+- Terraform
+- GitHub Actions
 
 ### その他
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- オブジェクト指向設計
+- アプリケーションアーキテクチャ
+- DevOps
+- 要件定義
+- 基本/詳細・DB設計
+- スクラム開発
 
 ## 言語
 
