@@ -42,7 +42,6 @@ title: English
     - Native
 - English
     - Basic conversational
-    - TOEIC: xxx points
 
 ## Strengths and Weaknesses
 
