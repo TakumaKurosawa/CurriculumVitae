@@ -13,13 +13,28 @@ title: English
 
 ## Skills
 ### Languages
-- etc
+- Go
+- Typescript
 
 ### Frameworks, Middleware, Hardware
-- etc
+- AWS
+- Docker
+- MySQL
+- Redis
+- gRPC
+- REST
+- Vue.js
+- Nuxt.js
+- Vite
+- Terraform
+- GitHub Actions
 
 ### Others
-- Skills not limited to languages and frameworks. Development methodologies, processes, tools, etc.
+- Object-oriented design
+- Application architecture patterns
+- DevOps
+- Requirement definition
+- Scrum development
 
 ## Language Proficiency
 
