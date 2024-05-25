@@ -7,9 +7,9 @@ title: English
 - Job: Backend Engineer
 - Company: CyberAgent, Inc.
 - Links
-  - X(Twitter): https://twitter.com/TakumaKurosawa
-  - Qiita: https://qiita.com/TakumaKurosawa
-  - GitHub: https://github.com/TakumaKurosawa
+  - X(Twitter): [twitter.com/TakumaKurosawa](https://twitter.com/TakumaKurosawa)
+  - Qiita: [qiita.com/TakumaKurosawa](https://qiita.com/TakumaKurosawa)
+  - GitHub: [github.com/TakumaKurosawa](https://github.com/TakumaKurosawa)
 
 ## Skills
 ### Languages
