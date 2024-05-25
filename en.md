@@ -15,8 +15,10 @@ title: English
 ### Languages
 - Go
 - Typescript
+- Python
+- PHP
 
-### Frameworks, Middleware, Hardware
+### Framework, Middleware, Tool
 - AWS
 - Docker
 - MySQL
@@ -28,9 +30,11 @@ title: English
 - Vite
 - Terraform
 - GitHub Actions
+- PipeCD
+- Datadog
 
 ### Others
-- Object-oriented design
+- Object-oriented programming design
 - Application architecture patterns
 - DevOps
 - Requirement definition
@@ -43,40 +47,71 @@ title: English
 - English
     - Basic conversational
 
-## Strengths and Weaknesses
-
-## Values
-
-## Interests
-
 ## Work Experience
-### yyyy/mm - Present: Company Name, Project Name
-#### Job Description
-#### Lessons learned and acquired knowledge/skills within the role
 
-### yyyy/mm - yyyy/mm: (Previous Company Name, Project Name)
-#### Job Description
-#### Lessons learned and acquired knowledge/skills within the role
+### February 2024 - Present: AI Scheduler - AI Operations Unit
+#### Responsibilities
+Designed and developed the winning idea of the [contests to generate ideas for the use of generative AI.](https://www.cyberagent.co.jp/way/list/detail/id=29503), receiving the top prize.
+Participated in the project as the manager of engineering team and tech lead.
+Responsible for designing and developing an application that uses generative AI to facilitate schedule adjustments through natural language.
+Conducted evaluations and proofs of concept (PoC) for new technologies, including generative AI.
 
-## Extracurricular Activities
+*Note: An internal contest held by CyberAgent Inc., where approximately 2,200 ideas were submitted for using generative AI within the company.*
 
-### External Projects
+#### Skills and Knowledge Gained
+- Experience in evaluating and adopting new technologies such as generative AI
+- Experience in making business decisions through PoCs
+- Design and development of applications using generative AI
+- Skills necessary for building generative AI applications using Azure OpenAI Service, LangChain, and Langsmith
+
+### February 2024 - Present: New Development Base Establishment - Hanoi Devcenter
+#### Responsibilities
+Established a new department with the mission of boosting the company’s development competitiveness by hiring talented local engineers in Vietnam.
+Utilized experience in recruitment and training from the time of joining the company to build an engineering organization that contributes to the company from scratch.
+
+#### Skills and Knowledge Gained
+- Engineering organization management
+- Culture promotion
+- Identifying the communities where talented Vietnamese engineers are
+- Experience living abroad
+
+### April 2023 - January 2024: DX Project for a Major Retail Company - AI Business Unit
+#### Responsibilities
+Participated in a project to revamp the application for a major drugstore chain.
+Collaborated with four SIer companies, in addition to the client company, to develop the application.
+Worked as a backend engineer from the project initiation to the completion of the release.
+Conducted load testing and built observability foundations in addition to feature development before the production release.
+
+#### Skills and Knowledge Gained
+- Scrum development
+- Challenges of collaboration with other companies
+- Difficulties in replacing existing systems
+- Preparation for production releases in services expected to have large-scale user access
+
+### April 2021 - March 2023: Remote Hospitality - AI Business Unit
+#### Responsibilities
+Engaged in the development of a product proposed in [an internal new business proposal contest](https://x.com/CyberAgent_PR/status/1324539728813715456) that was commercialized.
+Participated as an engineer in the development and operation of an [online customer service tool to achieve the DX of hospitality](https://www.cyberagent.co.jp/news/detail/id=28275).
+As a full-stack engineer, responsible for end-to-end processes from requirements and design definition to implementation.
+Conducted technical verification and replacement to new technologies (Vue3+Vite) with the introduction of Nuxt.js v3 beta.
+
+#### Skills and Knowledge Gained
+- Experience in generating and refining business ideas
+- Experience in launching products from the business idea phase
+- Development experience as a full-stack engineer
+- Experience in technical verification and selection
+- Design thinking for reflecting UI/UX in the product
+
+## Other Activities
 
 ### Past Presentation Materials
-- [Speaker Deck](Link to personal materials on Speaker Deck)
-
-### Awards
-- [Event Name and Award](Link to event landing page or article detailing the results)
+- [Recap: Migrating 80 BILLION RECORDS From MySQL to Bigtable](https://speakerdeck.com/takumakurosawa/recap-migrating-80-billion-records-from-mysql-to-bigtable)
+- [Figma → Vue コード自動生成サービスを技術検証してみた](https://speakerdeck.com/takumakurosawa/figma-vue-kodozi-dong-sheng-cheng-sabisuwoji-shu-jian-zheng-sitemita)
+- [VueUseのすすめ](https://speakerdeck.com/takumakurosawa/vue-dot-js-v-tokyo-meetup-16)
+- [僕がGoの設計に対して不思議に思うこと](https://speakerdeck.com/takumakurosawa/pu-gagonoshe-ji-nidui-sitebu-si-yi-nisi-ukoto)
 
 ### Writing Experience
-- [Qiita](Link to personal profile on Qiita)
-- [Articles on Online Media](Link to articles)
-
-## Future Aspirations
-### Vision for ○ Years from Now
-### Vision for ○ Years from Now
-
-### Gap between Current and Desired State
-### Steps to Achieve Desired State
-
-## Other (Things to Discuss, Unmentioned Details, etc.)
+- [GitHub実践ハンズオン](https://qiita.com/TakumaKurosawa/items/79a75026327d8deb9c04)
+- [【Go言語で学ぶ】抽象化](https://qiita.com/TakumaKurosawa/items/4e26f77bd62fb734cf55)
+- [【AWSハンズオン】Nuxt + Golang構成のWebアプリをAWSへデプロイしよう！](https://qiita.com/TakumaKurosawa/items/e67315583009257cd1ea)
+- [Google Go Style Guideを読んでみよう！ - Style Decisions編](https://qiita.com/TakumaKurosawa/items/fbb1418111604837d8ac)
