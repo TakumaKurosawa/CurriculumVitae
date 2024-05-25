@@ -64,7 +64,7 @@ Conducted evaluations and proofs of concept (PoC) for new technologies, includin
 - Design and development of applications using generative AI
 - Skills necessary for building generative AI applications using Azure OpenAI Service, LangChain, and Langsmith
 
-### February 2024 - Present: New Development Base Establishment - Hanoi Devcenter
+### April 2023 - Present: New Development Base Establishment - Hanoi Devcenter
 #### Responsibilities
 Established a new department with the mission of boosting the company’s development competitiveness by hiring talented local engineers in Vietnam.
 Utilized experience in recruitment and training from the time of joining the company to build an engineering organization that contributes to the company from scratch.
