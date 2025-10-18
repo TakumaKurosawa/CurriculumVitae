@@ -57,7 +57,7 @@ title: 日本語
 
 ## 職務経歴
 
-### 2024/02 - 現在 : AI scheduler - AI オペレーション室
+### 2024/02 - 現在 : [サイスケ（Cyber AI Schedule）](https://www.cyberagent.co.jp/news/detail/id=30869) - AI オペレーション室
 
 #### 職務内容
 

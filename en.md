@@ -56,7 +56,7 @@ title: English
 
 ## Work Experience
 
-### February 2024 - Present: AI Scheduler - AI Operations Unit
+### February 2024 - Present: [Cyber AI Scheduler](https://www.cyberagent.co.jp/news/detail/id=30869) - AI Operations Unit
 
 #### Responsibilities
 
