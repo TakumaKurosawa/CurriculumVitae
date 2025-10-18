@@ -8,7 +8,7 @@ title: 日本語
 - 職種: バックエンドエンジニア
 - 所属: [株式会社サイバーエージェント](https://www.cyberagent.co.jp/)
 - リンク:
-  - X(Twitter): [twitter.com/TakumaKurosawa](https://twitter.com/TakumaKurosawa)
+  - X(Twitter): [x.com/TakumaKurosawa](https://x.com/TakumaKurosawa)
   - Qiita: [qiita.com/TakumaKurosawa](https://qiita.com/TakumaKurosawa)
   - GitHub: [github.com/TakumaKurosawa](https://github.com/TakumaKurosawa)
   - TechTrain: [techbowl.co.jp/techtrain/mentors/78](https://techbowl.co.jp/techtrain/mentors/78)
