@@ -54,13 +54,6 @@ title: English
 - LLMOps
 - AI Agent design and development
 
-## Language Proficiency
-
-- Japanese
-  - Native
-- English
-  - Basic conversational
-
 ## Work Experience
 
 ### February 2024 - Present: AI Scheduler - AI Operations Unit
