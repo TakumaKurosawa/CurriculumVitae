@@ -200,7 +200,7 @@ Conducted technical verification and replacement to new technologies (Vue3+Vite)
 - [VueUse のすすめ](https://speakerdeck.com/takumakurosawa/vue-dot-js-v-tokyo-meetup-16)
 - [僕が Go の設計に対して不思議に思うこと](https://speakerdeck.com/takumakurosawa/pu-gagonoshe-ji-nidui-sitebu-si-yi-nisi-ukoto)
 
-### Writing Experience
+### Blog posts
 
 - [GitHub 実践ハンズオン](https://qiita.com/TakumaKurosawa/items/79a75026327d8deb9c04)
 - [【Go 言語で学ぶ】抽象化](https://qiita.com/TakumaKurosawa/items/4e26f77bd62fb734cf55)
