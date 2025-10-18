@@ -121,7 +121,7 @@ Conducted technical verification and replacement to new technologies (Vue3+Vite)
 - Experience in technical verification and selection
 - Design thinking for reflecting UI/UX in the product
 
-## Other Activities
+## Output
 
 ### Past Presentation Materials
 
