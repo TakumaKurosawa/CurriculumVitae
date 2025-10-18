@@ -18,21 +18,28 @@ title: 日本語
 ### 言語
 
 - Go
-- Typescript
 - Python
+- Typescript
 - PHP
 
 ### フレームワーク、ミドルウェア、ツール
 
+- リレーショナル DB
+  - MySQL
+  - PostgreSQL
+- NoSQL
+  - Redis
+  - CosmosDB (mongoDB)
+  - DynamoDB
 - AWS
+- Azure
 - Docker
-- MySQL
-- Redis
 - gRPC
 - REST
 - Vue.js
 - Nuxt.js
 - Vite
+- LangChain / LangGraph
 - Terraform
 - GitHub Actions
 - PipeCD
@@ -41,10 +48,12 @@ title: 日本語
 ### その他
 
 - オブジェクト指向設計
-- アプリケーションアーキテクチャ
 - DevOps
-- 要件定義・基本/詳細・DB 設計
+- 要件定義・基本/詳細設計
 - スクラム開発
+- AI ネイティブ開発環境整備
+- LLMOps
+- AI エージェント設計・構築
 
 ## 言語
 

@@ -17,21 +17,28 @@ title: English
 ### Languages
 
 - Go
-- Typescript
 - Python
+- Typescript
 - PHP
 
 ### Framework, Middleware, Tool
 
+- Relational DB
+  - MySQL
+  - PostgreSQL
+- NoSQL
+  - Redis
+  - CosmosDB (mongoDB)
+  - DynamoDB
 - AWS
+- Azure
 - Docker
-- MySQL
-- Redis
 - gRPC
 - REST
 - Vue.js
 - Nuxt.js
 - Vite
+- LangChain / LangGraph
 - Terraform
 - GitHub Actions
 - PipeCD
@@ -40,10 +47,12 @@ title: English
 ### Others
 
 - Object-oriented programming design
-- Application architecture patterns
 - DevOps
-- Requirement definition
+- Requirement definition / Technical architect design
 - Scrum development
+- AI-native development environment setup
+- LLMOps
+- AI Agent design and development
 
 ## Language Proficiency
 
