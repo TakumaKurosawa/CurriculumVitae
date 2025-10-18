@@ -1,5 +1,7 @@
 ---
 title: English
+layout: page
+toc: true
 ---
 
 ## Profile

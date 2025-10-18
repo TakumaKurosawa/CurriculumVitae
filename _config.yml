@@ -11,8 +11,15 @@ disqus:
 google_analytics: G-12H3L3F904
 # social links
 twitter_username: TakumaKurosawa
-github_username:  TakumaKurosawa
+github_username: TakumaKurosawa
 linkedin_username: TakumaKurosawa
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  transliterate: true
