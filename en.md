@@ -63,6 +63,18 @@ title: English
 Rejoined the application revamp project for a major drugstore chain.
 In the growth phase of a product that has grown into a large-scale service with 4 million WAU and 8 million MAU, working as a backend engineer responsible for design and development.
 
+#### Technologies Used
+
+- Go
+- Docker
+- MySQL
+- gRPC
+- Envoy
+- Terraform
+- AWS
+- Datadog
+- k6
+
 #### Skills and Knowledge Gained
 
 - Experience in growth development of large-scale services
@@ -81,6 +93,23 @@ Responsible for designing and developing an application that uses generative AI 
 Conducted evaluations and proofs of concept (PoC) for new technologies, including generative AI.
 
 _Note: An internal contest held by CyberAgent Inc., where approximately 2,200 ideas were submitted for using generative AI within the company._
+
+#### Technologies Used
+
+- Go
+- Python
+  - LangChain
+  - LangGraph
+- LangSmith
+- Docker
+- PostgreSQL
+- gRPC
+- Envoy
+- Terraform
+- AWS
+- Azure (OpenAI)
+- Datadog
+- PipeCD
 
 #### Skills and Knowledge Gained
 
@@ -112,6 +141,19 @@ Collaborated with four SIer companies, in addition to the client company, to dev
 Worked as a backend engineer from the product launch to the completion of the production release.
 Conducted load testing and built observability foundations in addition to feature development before the production release.
 
+#### Technologies Used
+
+- Go
+- Docker
+- MySQL
+- gRPC
+- Envoy
+- Terraform
+- AWS
+- Datadog
+- k6
+- PipeCD
+
 #### Skills and Knowledge Gained
 
 - Scrum development
@@ -128,6 +170,18 @@ Engaged in the development of a product proposed in [an internal new business pr
 Participated as an engineer in the development and operation of an [online customer service tool to achieve the DX of hospitality](https://www.cyberagent.co.jp/news/detail/id=28275).
 As a full-stack engineer, responsible for end-to-end processes from requirements and design definition to implementation.
 Conducted technical verification and replacement to new technologies (Vue3+Vite) with the introduction of Nuxt.js v3 beta.
+
+#### Technologies Used
+
+- Go
+- Docker
+- MySQL
+- Terraform
+- AWS
+- Typescript
+- Nuxt.js (Vue.js)
+- Vite
+- Bucketeer
 
 #### Skills and Knowledge Gained
 
