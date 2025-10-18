@@ -60,7 +60,7 @@ title: English
 
 #### Responsibilities
 
-Rejoined the application revamp project for a major drugstore chain.
+Rejoined the application revamp project for a major drugstore chain.  
 In the growth phase of a product that has grown into a large-scale service with 4 million WAU and 8 million MAU, working as a backend engineer responsible for design and development.
 
 #### Technologies Used
@@ -87,8 +87,8 @@ In the growth phase of a product that has grown into a large-scale service with 
 
 #### Responsibilities
 
-Participated as a generative AI engineer.
-Implemented an AI agent that analyzes patent documents using RAG.
+Participated as a generative AI engineer.  
+Implemented an AI agent that analyzes patent documents using RAG.  
 Joined the product development phase after PoC completion and contributed to translating client needs into product specifications.
 
 #### Technologies Used
@@ -112,7 +112,7 @@ Joined the product development phase after PoC completion and contributed to tra
 
 #### Responsibilities
 
-Took over the role of PdM and tech lead, responsible for development to improve product quality.
+Took over the role of PdM and tech lead, responsible for development to improve product quality.  
 Hosted competitions to compete on RAG answer accuracy.
 
 【Competition Hosting】
@@ -143,12 +143,13 @@ Hosted competitions to compete on RAG answer accuracy.
 
 #### Responsibilities
 
-Designed and developed the winning idea of the [contests to generate ideas for the use of generative AI.](https://www.cyberagent.co.jp/way/list/detail/id=29503), receiving the top prize.
-Participated in the project as the manager of engineering team and tech lead.
-Responsible for designing and developing an application that uses generative AI to facilitate schedule adjustments through natural language.
+Designed and developed the winning idea of the [contests to generate ideas for the use of generative AI.](https://www.cyberagent.co.jp/way/list/detail/id=29503), receiving the top prize.  
+Participated in the project as the manager of engineering team and tech lead.  
+Responsible for designing and developing an application that uses generative AI to facilitate schedule adjustments through natural language.  
 Conducted evaluations and proofs of concept (PoC) for new technologies, including generative AI.
 
-_Note: An internal contest held by CyberAgent Inc., where approximately 2,200 ideas were submitted for using generative AI within the company._
+_Note: An internal contest held by CyberAgent Inc.  
+Approximately 2,200 ideas were submitted for using generative AI within the company._
 
 #### Technologies Used
 
@@ -178,7 +179,7 @@ _Note: An internal contest held by CyberAgent Inc., where approximately 2,200 id
 
 #### Responsibilities
 
-Established a new department with the mission of boosting the company’s development competitiveness by hiring talented local engineers in Vietnam.
+Established a new department with the mission of boosting the company's development competitiveness by hiring talented local engineers in Vietnam.  
 Utilized experience in recruitment and training from the time of joining the company to build an engineering organization that contributes to the company from scratch.
 
 #### Skills and Knowledge Gained
@@ -192,9 +193,9 @@ Utilized experience in recruitment and training from the time of joining the com
 
 #### Responsibilities
 
-Participated in the launch phase of an application revamp project for a major drugstore chain.
-Collaborated with four SIer companies, in addition to the client company, to develop the application.
-Worked as a backend engineer from the product launch to the completion of the production release.
+Participated in the launch phase of an application revamp project for a major drugstore chain.  
+Collaborated with four SIer companies, in addition to the client company, to develop the application.  
+Worked as a backend engineer from the product launch to the completion of the production release.  
 Conducted load testing and built observability foundations in addition to feature development before the production release.
 
 #### Technologies Used
@@ -222,9 +223,9 @@ Conducted load testing and built observability foundations in addition to featur
 
 #### Responsibilities
 
-Engaged in the development of a product proposed in [an internal new business proposal contest](https://x.com/CyberAgent_PR/status/1324539728813715456) that was commercialized.
-Participated as an engineer in the development and operation of an [online customer service tool to achieve the DX of hospitality](https://www.cyberagent.co.jp/news/detail/id=28275).
-As a full-stack engineer, responsible for end-to-end processes from requirements and design definition to implementation.
+Engaged in the development of a product proposed in [an internal new business proposal contest](https://x.com/CyberAgent_PR/status/1324539728813715456) that was commercialized.  
+Participated as an engineer in the development and operation of an [online customer service tool to achieve the DX of hospitality](https://www.cyberagent.co.jp/news/detail/id=28275).  
+As a full-stack engineer, responsible for end-to-end processes from requirements and design definition to implementation.  
 Conducted technical verification and replacement to new technologies (Vue3+Vite) with the introduction of Nuxt.js v3 beta.
 
 #### Technologies Used
