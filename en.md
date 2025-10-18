@@ -85,7 +85,7 @@ Utilized experience in recruitment and training from the time of joining the com
 
 - Engineering organization management
 - Culture promotion
-- Identifying the communities where talented Vietnamese engineers are
+- Recruitment strategy design
 - Experience living abroad
 
 ### April 2023 - January 2024: DX Project for a Major Retail Company - AI Business Unit
