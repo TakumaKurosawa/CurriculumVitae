@@ -56,7 +56,22 @@ title: English
 
 ## Work Experience
 
-### February 2024 - Present: [Cyber AI Scheduler](https://www.cyberagent.co.jp/news/detail/id=30869) - AI Operations Unit
+### June 2025 - Present: DX Project for a Major Retail Company - AI Business Unit
+
+#### Responsibilities
+
+Rejoined the application revamp project for a major drugstore chain.
+In the growth phase of a product that has grown into a large-scale service with 4 million WAU and 8 million MAU, working as a backend engineer responsible for design and development.
+
+#### Skills and Knowledge Gained
+
+- Experience in growth development of large-scale services
+- Experience in continuous product development
+- Experience in safely scaling services
+  - Design and implementation of test strategies
+  - Gradual rollout using feature flags
+
+### February 2024 - June 2025: [Cyber AI Scheduler](https://www.cyberagent.co.jp/news/detail/id=30869) - AI Operations Unit
 
 #### Responsibilities
 
@@ -72,7 +87,7 @@ _Note: An internal contest held by CyberAgent Inc., where approximately 2,200 id
 - Experience in evaluating and adopting new technologies such as generative AI
 - Experience in making business decisions through PoCs
 - Design and development of applications using generative AI
-- Skills necessary for building generative AI applications using Azure OpenAI Service, LangChain, and Langsmith
+- Skills necessary for building generative AI applications using Azure OpenAI Service, LangChain / LangGraph, and Langsmith
 
 ### April 2023 - Present: New Development Base Establishment - Hanoi Devcenter
 
@@ -92,19 +107,20 @@ Utilized experience in recruitment and training from the time of joining the com
 
 #### Responsibilities
 
-Participated in a project to revamp the application for a major drugstore chain.
+Participated in the launch phase of an application revamp project for a major drugstore chain.
 Collaborated with four SIer companies, in addition to the client company, to develop the application.
-Worked as a backend engineer from the project initiation to the completion of the release.
+Worked as a backend engineer from the product launch to the completion of the production release.
 Conducted load testing and built observability foundations in addition to feature development before the production release.
 
 #### Skills and Knowledge Gained
 
 - Scrum development
 - Challenges of collaboration with other companies
-- Difficulties in replacing existing systems
 - Preparation for production releases in services expected to have large-scale user access
+  - Design and implementation of load testing strategies
+  - Observability infrastructure setup
 
-### April 2021 - March 2023: Remote Hospitality - AI Business Unit
+### April 2021 - March 2023: Remotenashi - AI Business Unit
 
 #### Responsibilities
 
