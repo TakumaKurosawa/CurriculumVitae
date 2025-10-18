@@ -83,6 +83,62 @@ In the growth phase of a product that has grown into a large-scale service with 
   - Design and implementation of test strategies
   - Gradual rollout using feature flags
 
+### May 2025 - August 2025: AI Development Project for Patent Analysis at a Major Chemical Company - Galirage, Inc.
+
+#### Responsibilities
+
+Participated as a generative AI engineer.
+Implemented an AI agent that analyzes patent documents using RAG.
+Joined the product development phase after PoC completion and contributed to translating client needs into product specifications.
+
+#### Technologies Used
+
+- Python
+  - Streamlit
+  - LangChain
+  - LangGraph
+- LangSmith
+- Azure
+- PostgreSQL
+- Docker
+
+#### Skills and Knowledge Gained
+
+- Experience in hearing client needs and translating them into product specifications
+- Building RAG systems in highly specialized domains such as patent documents
+- AI agent design and implementation experience
+
+### January 2025 - May 2025: Development of [Raggle](https://raggle.jp/) and Competition Hosting - Galirage, Inc.
+
+#### Responsibilities
+
+Took over the role of PdM and tech lead, responsible for development to improve product quality.
+Hosted competitions to compete on RAG answer accuracy.
+
+【Competition Hosting】
+
+- Created RAG problems
+- Built scoring (evaluation) infrastructure for answer accuracy
+- User analysis
+
+#### Technologies Used
+
+- Python
+  - Streamlit
+  - LangChain
+- LangSmith
+- Firebase
+- GCP
+- Docker
+- Rollbar
+
+#### Skills and Knowledge Gained
+
+- Experience creating product vision and development roadmap as a PdM
+- Design and development of RAG competition platform
+- Experience building evaluation infrastructure
+- Practicing cycles of user analysis and product improvement
+
 ### February 2024 - June 2025: [Cyber AI Scheduler](https://www.cyberagent.co.jp/news/detail/id=30869) - AI Operations Unit
 
 #### Responsibilities
