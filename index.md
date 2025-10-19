@@ -28,47 +28,42 @@ toc: true
 
 プロダクトの新規立ち上げ〜運用フェーズまで経験があります。ビジネスインパクトを重視しながら、より多くのアウトカムが得られる設計や開発が得意です。特に、チームとしてより高い生産性を目指すための仕組みづくりや基盤設計に興味があります。
 
-## スキル {#skills}
+### スキル {#skills}
 
-### 言語 {#languages}
+| 技術/スキル             | 分類                       | 経験年数 |
+| ----------------------- | -------------------------- | -------- |
+| Go                      | 言語                       | 5 年     |
+| AWS                     | クラウド・インフラ         | 5 年     |
+| Docker                  | クラウド・インフラ         | 5 年     |
+| Terraform               | クラウド・インフラ         | 5 年     |
+| DynamoDB                | データベース               | 5 年     |
+| GitHub Actions          | ツール                     | 5 年     |
+| Python                  | 言語                       | 3 年     |
+| MySQL                   | データベース               | 3 年     |
+| PostgreSQL              | データベース               | 3 年     |
+| Redis                   | データベース               | 3 年     |
+| LangChain / LangGraph   | フレームワーク・ライブラリ | 3 年     |
+| gRPC (Protocol Buffers) | 通信プロトコル             | 3 年     |
+| PipeCD                  | ツール                     | 3 年     |
+| Datadog                 | ツール                     | 3 年     |
+| Typescript              | 言語                       | 2 年     |
+| Nuxt.js (Vue.js)        | フレームワーク・ライブラリ | 2 年     |
+| PHP                     | 言語                       | 1 年     |
+| CosmosDB (mongoDB)      | データベース               | 1 年     |
+| Azure                   | クラウド・インフラ         | 1 年     |
 
-- Go
-- Python
-- Typescript
-- PHP
+### 経験 {#experience}
 
-### フレームワーク、ミドルウェア、ツール {#frameworks}
-
-- リレーショナル DB
-  - MySQL
-  - PostgreSQL
-- NoSQL
-  - Redis
-  - CosmosDB (mongoDB)
-  - DynamoDB
-- AWS
-- Azure
-- Docker
-- gRPC
-- REST
-- Vue.js
-- Nuxt.js
-- Vite
-- LangChain / LangGraph
-- Terraform
-- GitHub Actions
-- PipeCD
-- Datadog
-
-### その他 {#others}
-
-- オブジェクト指向設計
-- DevOps
-- 要件定義・基本/詳細設計
-- スクラム開発
-- AI ネイティブ開発環境整備
-- LLMOps
-- AI エージェント設計・構築
+| スキル/経験                  | 経験年数 |
+| ---------------------------- | -------- |
+| DevOps                       | 3 年     |
+| スクラム開発                 | 3 年     |
+| テックリード                 | 2 年     |
+| エンジニアリングマネージャー | 2 年     |
+| ウォーターフォール開発       | 2 年     |
+| AI ネイティブ開発環境整備    | 2 年     |
+| LLMOps                       | 2 年     |
+| PdM                          | 1 年     |
 
 ## 職務経歴 {#work-experience}
 

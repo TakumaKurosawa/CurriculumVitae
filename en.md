@@ -28,47 +28,42 @@ toc: true
 
 I have experience in all phases from product launch to operation. I excel at design and development that maximizes outcomes while prioritizing business impact. I'm particularly interested in building systems and infrastructure to achieve higher productivity as a team.
 
-## Skills
+### Skills
 
-### Languages
+| Technology/Skill        | Category               | Experience |
+| ----------------------- | ---------------------- | ---------- |
+| Go                      | Languages              | 5 years    |
+| AWS                     | Cloud & Infrastructure | 5 years    |
+| Docker                  | Cloud & Infrastructure | 5 years    |
+| Terraform               | Cloud & Infrastructure | 5 years    |
+| DynamoDB                | Database               | 5 years    |
+| GitHub Actions          | Tools                  | 5 years    |
+| Python                  | Languages              | 3 years    |
+| MySQL                   | Database               | 3 years    |
+| PostgreSQL              | Database               | 3 years    |
+| Redis                   | Database               | 3 years    |
+| LangChain / LangGraph   | Framework & Library    | 3 years    |
+| gRPC (Protocol Buffers) | Communication Protocol | 3 years    |
+| PipeCD                  | Tools                  | 3 years    |
+| Datadog                 | Tools                  | 3 years    |
+| Typescript              | Languages              | 2 years    |
+| Nuxt.js (Vue.js)        | Framework & Library    | 2 years    |
+| PHP                     | Languages              | 1 year     |
+| CosmosDB (mongoDB)      | Database               | 1 year     |
+| Azure                   | Cloud & Infrastructure | 1 year     |
 
-- Go
-- Python
-- Typescript
-- PHP
+### Experience
 
-### Framework, Middleware, Tool
-
-- Relational DB
-  - MySQL
-  - PostgreSQL
-- NoSQL
-  - Redis
-  - CosmosDB (mongoDB)
-  - DynamoDB
-- AWS
-- Azure
-- Docker
-- gRPC
-- REST
-- Vue.js
-- Nuxt.js
-- Vite
-- LangChain / LangGraph
-- Terraform
-- GitHub Actions
-- PipeCD
-- Datadog
-
-### Others
-
-- Object-oriented programming design
-- DevOps
-- Requirement definition / Technical architect design
-- Scrum development
-- AI-native development environment setup
-- LLMOps
-- AI Agent design and development
+| Skill/Experience                        | Experience |
+| --------------------------------------- | ---------- |
+| DevOps                                  | 3 years    |
+| Scrum development                       | 3 years    |
+| Tech Lead                               | 2 years    |
+| Engineering Manager                     | 2 years    |
+| Waterfall development                   | 2 years    |
+| AI-native development environment setup | 2 years    |
+| LLMOps                                  | 2 years    |
+| PdM (Product Manager)                   | 1 year     |
 
 ## Work Experience
 
