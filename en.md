@@ -152,7 +152,7 @@ Conducted evaluations and proofs of concept (PoC) for new technologies, includin
 _Note: An internal contest held by CyberAgent Inc.  
 Approximately 2,200 ideas were submitted for using generative AI within the company._
 
-#### Key Implementations
+#### Development Topics
 
 **Technology Selection and Initial Architecture:**  
 Led the overall architecture and technology selection for the development project, considering team members' tech stacks and application characteristics. The introduction of GitHub Codespaces and trunk-based development was particularly well-received by the team.
@@ -168,6 +168,13 @@ Implemented a user dictionary feature for the AI to identify schedule participan
 
 **Requirement Definition and KPI Design:**  
 Since this was a project where engineers also led the specifications and requirement definition, worked on user story design and UI mock creation in the initial phase. Proposed a structure to release in small increments per phase and clarify KPIs for each phase, which resulted in earlier feedback and significant benefits.
+
+**Presented at CyberAgent Developer Conference 2024:**  
+Shared development processes and technical initiatives externally.  
+Reference: [LLM Evaluation Infrastructure for Generative AI Application Development](https://developers.cyberagent.co.jp/blog/archives/50580/)
+
+**LLMOps Infrastructure Proposal and Implementation:**  
+It was difficult to establish KPIs with business stakeholders using vague metrics like "poor response accuracy." Built an evaluation infrastructure using techniques such as LLM as a judge to measure "response accuracy" as a common understanding with business stakeholders, and visualized it with LangSmith. As a result, this became a good opportunity for business stakeholders to understand the AI agent mechanisms from the ground up.
 
 #### Skills and Knowledge Gained
 
@@ -205,7 +212,7 @@ Collaborated with four SIer companies, in addition to the client company, to dev
 Worked as a backend engineer from the product launch to the completion of the production release.  
 Conducted load testing and built observability foundations in addition to feature development before the production release.
 
-#### Key Implementations
+#### Development Topics
 
 **Coupon Feature Design and Implementation:**  
 Realized a system capable of registering and distributing multiple types of coupons, including user acquisition, targeting, and all-user types. Given that the service was expected to handle over 600 RPS, conducted load testing and performance tuning. Achieved high-performance design by using different DB types according to data characteristics, such as master data (coupon data) and user data (usage history). Also implemented concurrent processing using Goroutines on the application logic side, achieving significant performance improvements.
@@ -236,7 +243,7 @@ Participated as an engineer in the development and operation of an [online custo
 As a full-stack engineer, responsible for end-to-end processes from requirements and design definition to implementation.  
 Conducted technical verification and replacement to new technologies (Vue3+Vite) with the introduction of Nuxt.js v3 beta.
 
-#### Key Implementations
+#### Development Topics
 
 **Nuxt3 Beta Verification and Migration from Nuxt2 to Vue3:**  
 Led technical verification when Nuxt3 beta was released. After evaluation, decided to migrate to Vue3 (Vite) instead, reasoning that SSR was not necessary for our use case and disagreement with the main contributor's direction. Completed the full migration from Nuxt2 to Vue3 independently.
