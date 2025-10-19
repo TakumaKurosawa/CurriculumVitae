@@ -13,6 +13,7 @@ toc: true
   - X(Twitter): [x.com/TakumaKurosawa](https://x.com/TakumaKurosawa)
   - Qiita: [qiita.com/TakumaKurosawa](https://qiita.com/TakumaKurosawa)
   - GitHub: [github.com/TakumaKurosawa](https://github.com/TakumaKurosawa)
+  - TechTrain: [techbowl.co.jp/techtrain/mentors/78](https://techbowl.co.jp/techtrain/mentors/78)
 
 ## Skills
 
