@@ -69,22 +69,16 @@ I have experience in all phases from product launch to operation. I excel at des
 
 ### June 2025 - Present: DX Project for a Major Retail Company - AI Business Unit
 
+| Item          | Details                                                                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project Scale | Large-scale users (4M WAU, 8M MAU)<br>Team: PM × 6, Backend × 4, Frontend × 3, Native × 4, Designer × 2<br>Co-development with 4 external vendors |
+| Role          | Backend Engineer                                                                                                                                  |
+| Technologies  | Go, Docker, MySQL, gRPC, Envoy, Terraform, AWS, Datadog, k6                                                                                       |
+
 #### Responsibilities
 
 Rejoined the application revamp project for a major drugstore chain.  
 In the growth phase of a product that has grown into a large-scale service with 4 million WAU and 8 million MAU, working as a backend engineer responsible for design and development.
-
-#### Technologies Used
-
-- Go
-- Docker
-- MySQL
-- gRPC
-- Envoy
-- Terraform
-- AWS
-- Datadog
-- k6
 
 #### Skills and Knowledge Gained
 
@@ -96,22 +90,17 @@ In the growth phase of a product that has grown into a large-scale service with 
 
 ### May 2025 - August 2025: AI Development Project for Patent Analysis at a Major Chemical Company - Galirage, Inc.
 
+| Item          | Details                                                                        |
+| ------------- | ------------------------------------------------------------------------------ |
+| Project Scale | PM × 1, Engineer × 4                                                           |
+| Role          | Generative AI Engineer                                                         |
+| Technologies  | Python (Streamlit, LangChain, LangGraph), LangSmith, Azure, PostgreSQL, Docker |
+
 #### Responsibilities
 
 Participated as a generative AI engineer.  
 Implemented an AI agent that analyzes patent documents using RAG.  
 Joined the product development phase after PoC completion and contributed to translating client needs into product specifications.
-
-#### Technologies Used
-
-- Python
-  - Streamlit
-  - LangChain
-  - LangGraph
-- LangSmith
-- Azure
-- PostgreSQL
-- Docker
 
 #### Skills and Knowledge Gained
 
@@ -120,6 +109,12 @@ Joined the product development phase after PoC completion and contributed to tra
 - AI agent design and implementation experience
 
 ### January 2025 - May 2025: Development of [Raggle](https://raggle.jp/) and Competition Hosting - Galirage, Inc.
+
+| Item          | Details                                                                  |
+| ------------- | ------------------------------------------------------------------------ |
+| Project Scale | ~150 participants per competition<br>Team: CS × 1, PdM and Tech Lead × 1 |
+| Role          | PdM and Tech Lead                                                        |
+| Technologies  | Python (Streamlit, LangChain), LangSmith, Firebase, GCP, Docker, Rollbar |
 
 #### Responsibilities
 
@@ -132,17 +127,6 @@ Hosted competitions to compete on RAG answer accuracy.
 - Built scoring (evaluation) infrastructure for answer accuracy
 - User analysis
 
-#### Technologies Used
-
-- Python
-  - Streamlit
-  - LangChain
-- LangSmith
-- Firebase
-- GCP
-- Docker
-- Rollbar
-
 #### Skills and Knowledge Gained
 
 - Experience creating product vision and development roadmap as a PdM
@@ -151,6 +135,12 @@ Hosted competitions to compete on RAG answer accuracy.
 - Practicing cycles of user analysis and product improvement
 
 ### February 2024 - June 2025: [Cyber AI Scheduler](https://www.cyberagent.co.jp/news/detail/id=30869) - AI Operations Unit
+
+| Item          | Details                                                                                                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Project Scale | PM × 1, Engineer × 4, Data Scientist × 1<br>Deployed company-wide at CyberAgent Inc. (~11,000 employees)                       |
+| Role          | Engineering Manager and Tech Lead                                                                                              |
+| Technologies  | Go, Python (LangChain, LangGraph), LangSmith, Docker, PostgreSQL, gRPC, Envoy, Terraform, AWS, Azure (OpenAI), Datadog, PipeCD |
 
 #### Responsibilities
 
@@ -162,22 +152,22 @@ Conducted evaluations and proofs of concept (PoC) for new technologies, includin
 _Note: An internal contest held by CyberAgent Inc.  
 Approximately 2,200 ideas were submitted for using generative AI within the company._
 
-#### Technologies Used
+#### Key Implementations
 
-- Go
-- Python
-  - LangChain
-  - LangGraph
-- LangSmith
-- Docker
-- PostgreSQL
-- gRPC
-- Envoy
-- Terraform
-- AWS
-- Azure (OpenAI)
-- Datadog
-- PipeCD
+**Technology Selection and Initial Architecture:**  
+Led the overall architecture and technology selection for the development project, considering team members' tech stacks and application characteristics. The introduction of GitHub Codespaces and trunk-based development was particularly well-received by the team.
+
+**Production Infrastructure Setup:**  
+Built AWS infrastructure (ECS, DynamoDB, VPC, ALB, S3, SQS, etc.) using Terraform. To prevent knowledge silos, also built CI/CD pipeline using GitHub Actions and PipeCD.
+
+**Generative AI Technology Evaluation and PoC:**  
+Researched and compared LLMs and related libraries to design and implement applications using generative AI. Made the decision to integrate generative AI based on Azure OpenAI Service + Python + LangChain, considering team members' tech stacks.
+
+**User Dictionary Feature Implementation:**  
+Implemented a user dictionary feature for the AI to identify schedule participants. Realized this by combining OpenSearch for full-text search and DynamoDB for user dictionary data storage. Also implemented a mechanism to periodically synchronize with daily updated user information sources using EventBridge and ECS.
+
+**Requirement Definition and KPI Design:**  
+Since this was a project where engineers also led the specifications and requirement definition, worked on user story design and UI mock creation in the initial phase. Proposed a structure to release in small increments per phase and clarify KPIs for each phase, which resulted in earlier feedback and significant benefits.
 
 #### Skills and Knowledge Gained
 
@@ -202,6 +192,12 @@ Utilized experience in recruitment and training from the time of joining the com
 
 ### April 2023 - January 2024: DX Project for a Major Retail Company - AI Business Unit
 
+| Item          | Details                                                             |
+| ------------- | ------------------------------------------------------------------- |
+| Project Scale | PM × 10, Frontend × 5, Backend × 5, Native × 4, Designer × 2        |
+| Role          | Backend Engineer                                                    |
+| Technologies  | Go, Docker, MySQL, gRPC, Envoy, Terraform, AWS, Datadog, k6, PipeCD |
+
 #### Responsibilities
 
 Participated in the launch phase of an application revamp project for a major drugstore chain.  
@@ -209,18 +205,13 @@ Collaborated with four SIer companies, in addition to the client company, to dev
 Worked as a backend engineer from the product launch to the completion of the production release.  
 Conducted load testing and built observability foundations in addition to feature development before the production release.
 
-#### Technologies Used
+#### Key Implementations
 
-- Go
-- Docker
-- MySQL
-- gRPC
-- Envoy
-- Terraform
-- AWS
-- Datadog
-- k6
-- PipeCD
+**Coupon Feature Design and Implementation:**  
+Realized a system capable of registering and distributing multiple types of coupons, including user acquisition, targeting, and all-user types. Given that the service was expected to handle over 600 RPS, conducted load testing and performance tuning. Achieved high-performance design by using different DB types according to data characteristics, such as master data (coupon data) and user data (usage history). Also implemented concurrent processing using Goroutines on the application logic side, achieving significant performance improvements.
+
+**Observability Infrastructure Design and Implementation:**  
+Given the large-scale traffic expected for the service, it was necessary to strengthen the operational system for production release. Led the design and construction of monitoring systems essential for service operations. Educated team members, including business stakeholders, on what observability is and why it's necessary, and clarified what needs to be built to enhance observability. Specifically, completed visualization of business metrics and system metrics through Datadog dashboards, error alert notification infrastructure, health monitoring through Synthetics tests, and on-call tool selection. **As a result, the client company highly appreciated the post-release monitoring system, leading to double the maintenance budget.**
 
 #### Skills and Knowledge Gained
 
@@ -232,6 +223,12 @@ Conducted load testing and built observability foundations in addition to featur
 
 ### April 2021 - March 2023: Remotenashi - AI Business Unit
 
+| Item          | Details                                                                          |
+| ------------- | -------------------------------------------------------------------------------- |
+| Project Scale | PM/Sales × 7, Designer × 1, Engineer × 10                                        |
+| Role          | Full-stack Engineer                                                              |
+| Technologies  | Go, Docker, MySQL, Terraform, AWS, Typescript, Nuxt.js (Vue.js), Vite, Bucketeer |
+
 #### Responsibilities
 
 Engaged in the development of a product proposed in [an internal new business proposal contest](https://x.com/CyberAgent_PR/status/1324539728813715456) that was commercialized.  
@@ -239,17 +236,16 @@ Participated as an engineer in the development and operation of an [online custo
 As a full-stack engineer, responsible for end-to-end processes from requirements and design definition to implementation.  
 Conducted technical verification and replacement to new technologies (Vue3+Vite) with the introduction of Nuxt.js v3 beta.
 
-#### Technologies Used
+#### Key Implementations
 
-- Go
-- Docker
-- MySQL
-- Terraform
-- AWS
-- Typescript
-- Nuxt.js (Vue.js)
-- Vite
-- Bucketeer
+**Nuxt3 Beta Verification and Migration from Nuxt2 to Vue3:**  
+Led technical verification when Nuxt3 beta was released. After evaluation, decided to migrate to Vue3 (Vite) instead, reasoning that SSR was not necessary for our use case and disagreement with the main contributor's direction. Completed the full migration from Nuxt2 to Vue3 independently.
+
+**Product Proposal Feature:**  
+After understanding the current business workflow, proposed and released a new feature to realize more effective online experiences. Worked with a designer and business member as a team of three, completing everything from UI image creation in Figma to client proposals, requirement definition, implementation, and release. Implemented using WebSocket and Pinia to realize an experience where products proposed by customer service staff are displayed in real-time on customers' screens and can be purchased.
+
+**Client Domain Understanding and Feature Proposals as Solutions:**  
+Based on hearing results brought back by business members, conducted requirement definition and UI/UX design to understand client business, extract issues, and lead to feature proposals. For approved features, handled everything from basic design to implementation and release. Rather than just building what was requested, worked closely with business members and designers across disciplines to consider clients' latent needs and issues and connect them to feature proposals.
 
 #### Skills and Knowledge Gained
 
