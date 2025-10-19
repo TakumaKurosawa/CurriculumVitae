@@ -15,6 +15,19 @@ toc: true
   - GitHub: [github.com/TakumaKurosawa](https://github.com/TakumaKurosawa)
   - TechTrain: [techbowl.co.jp/techtrain/mentors/78](https://techbowl.co.jp/techtrain/mentors/78)
 
+### Strengths
+
+- Translating business requirements into system design
+- End-to-end development from requirement definition to implementation
+- Breaking down complex problems
+- Team development infrastructure design
+- Development efficiency improvement and automation
+- Backend and infrastructure development
+
+### Professional Summary
+
+I have experience in all phases from product launch to operation. I excel at design and development that maximizes outcomes while prioritizing business impact. I'm particularly interested in building systems and infrastructure to achieve higher productivity as a team.
+
 ## Skills
 
 ### Languages

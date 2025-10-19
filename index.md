@@ -15,6 +15,19 @@ toc: true
   - GitHub: [github.com/TakumaKurosawa](https://github.com/TakumaKurosawa)
   - TechTrain: [techbowl.co.jp/techtrain/mentors/78](https://techbowl.co.jp/techtrain/mentors/78)
 
+### 得意分野 {#strengths}
+
+- ビジネス要件からシステム設計への落とし込み
+- 要件定義〜設計・実装まで一気通貫
+- 課題の細分化
+- チーム開発基盤設計
+- 開発効率向上と自動化
+- バックエンド・インフラ領域基盤開発
+
+### 自己 PR {#self-pr}
+
+プロダクトの新規立ち上げ〜運用フェーズまで経験があります。ビジネスインパクトを重視しながら、より多くのアウトカムが得られる設計や開発が得意です。特に、チームとしてより高い生産性を目指すための仕組みづくりや基盤設計に興味があります。
+
 ## スキル {#skills}
 
 ### 言語 {#languages}
