@@ -171,7 +171,7 @@ Since this was a project where engineers also led the specifications and require
 
 **Presented at CyberAgent Developer Conference 2024:**  
 Shared development processes and technical initiatives externally.  
-Reference: [LLM Evaluation Infrastructure for Generative AI Application Development](https://developers.cyberagent.co.jp/blog/archives/50580/)
+Reference: [生成 AI の強みと弱みを理解して、生成 AI がもたらすパワーをプロダクトの価値へ繋げるために実践したこと \[CADC2024\]](https://developers.cyberagent.co.jp/blog/archives/50580/)
 
 **LLMOps Infrastructure Proposal and Implementation:**  
 It was difficult to establish KPIs with business stakeholders using vague metrics like "poor response accuracy." Built an evaluation infrastructure using techniques such as LLM as a judge to measure "response accuracy" as a common understanding with business stakeholders, and visualized it with LangSmith. As a result, this became a good opportunity for business stakeholders to understand the AI agent mechanisms from the ground up.
@@ -266,6 +266,7 @@ Based on hearing results brought back by business members, conducted requirement
 
 ### Past Presentation Materials
 
+- [生成 AI の強みと弱みを理解して、生成 AI がもたらすパワーをプロダクトの価値へ繋げるために実践したこと \[CADC2024\]](https://developers.cyberagent.co.jp/blog/archives/50580/)
 - [Recap: Migrating 80 BILLION RECORDS From MySQL to Bigtable](https://speakerdeck.com/takumakurosawa/recap-migrating-80-billion-records-from-mysql-to-bigtable)
 - [Figma → Vue コード自動生成サービスを技術検証してみた](https://speakerdeck.com/takumakurosawa/figma-vue-kodozi-dong-sheng-cheng-sabisuwoji-shu-jian-zheng-sitemita)
 - [VueUse のすすめ](https://speakerdeck.com/takumakurosawa/vue-dot-js-v-tokyo-meetup-16)

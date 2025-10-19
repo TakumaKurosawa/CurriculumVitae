@@ -171,7 +171,7 @@ AI がスケジュール参加者を特定するステップにおける、ユ�
 
 **CyberAgent Developer Conference 2024 に登壇:**  
 開発プロセスや技術的な取り組みについて社外へ発信。  
-参考：[生成 AI アプリケーション開発における LLM 評価基盤について](https://developers.cyberagent.co.jp/blog/archives/50580/)
+参考：[生成 AI の強みと弱みを理解して、生成 AI がもたらすパワーをプロダクトの価値へ繋げるために実践したこと](https://developers.cyberagent.co.jp/blog/archives/50580/)
 
 **LLMOps 基盤の提案と構築:**  
 「回答精度が悪い」という曖昧な指標ではビジネス側と KPI を作ることが難しかった。ビジネス側とも共通認識の「回答精度」を測定するための基盤を LLM as a judge などの評価手法を用いて構築し、LangSmith で可視化。結果的に、ビジネス側にも AI エージェントの仕組みから理解してもらえる良い機会になった。
@@ -266,6 +266,7 @@ Nuxt3 beta がリリースされたタイミングで、技術検証を担当。
 
 ### 過去の登壇資料 {#presentations}
 
+- [生成 AI の強みと弱みを理解して、生成 AI がもたらすパワーをプロダクトの価値へ繋げるために実践したこと \[CADC2024\]](https://developers.cyberagent.co.jp/blog/archives/50580/)
 - [Recap: Migrating 80 BILLION RECORDS From MySQL to Bigtable](https://speakerdeck.com/takumakurosawa/recap-migrating-80-billion-records-from-mysql-to-bigtable)
 - [Figma → Vue コード自動生成サービスを技術検証してみた](https://speakerdeck.com/takumakurosawa/figma-vue-kodozi-dong-sheng-cheng-sabisuwoji-shu-jian-zheng-sitemita)
 - [VueUse のすすめ](https://speakerdeck.com/takumakurosawa/vue-dot-js-v-tokyo-meetup-16)
