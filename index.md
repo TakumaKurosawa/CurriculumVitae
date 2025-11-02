@@ -6,8 +6,10 @@ toc: true
 
 ## 基本情報 {#profile}
 
+> Backend/Platform & AI テックリード | Go, AWS, LLMOps | WAU 400 万/MAU 800 万規模 | 全社展開（1 万 1 千人）
+
 - 名前: 黒澤 拓磨
-- 職種: バックエンドエンジニア
+- 職種: バックエンド/Platform エンジニア、テックリード
 - 所属: [株式会社サイバーエージェント](https://www.cyberagent.co.jp/)
 - リンク:
   - X(Twitter): [x.com/TakumaKurosawa](https://x.com/TakumaKurosawa)
@@ -18,62 +20,64 @@ toc: true
 ### 得意分野 {#strengths}
 
 - ビジネス要件からシステム設計への落とし込み
-- 要件定義〜設計・実装まで一気通貫
-- 課題の細分化
-- チーム開発基盤設計
-- 開発効率向上と自動化
-- バックエンド・インフラ領域基盤開発
+- 要件定義から本番リリースまでの一気通貫での推進
+- 複雑な課題の実行可能な計画への細分化
+- チーム開発基盤とワークフローの設計
+- 開発者生産性の向上と自動化の推進
+- バックエンド/Platform エンジニアリングとクラウドインフラ構築
 
 ### 自己 PR {#self-pr}
 
 プロダクトの新規立ち上げ〜運用フェーズまで経験があります。ビジネスインパクトを重視しながら、より多くのアウトカムが得られる設計や開発が得意です。特に、チームとしてより高い生産性を目指すための仕組みづくりや基盤設計に興味があります。
 
+### エグゼクティブサマリ {#executive-summary}
+
+バックエンド/Platform & AI テックリードとして 5 年以上の経験。全社展開（1 万 1 千人規模）の生成 AI プロダクトの開発責任者兼テックリードとして牽引。LLM 評価基盤（LangSmith）を構築し、AWS（ECS/DynamoDB）上で本番稼働。大規模小売アプリ（WAU 400 万/MAU 800 万）のバックエンド開発を担当し、オブザーバビリティ基盤整備で保守体制金額を 2 倍に。Go、Python、AWS 環境での開発責任者/テックリード/LLMOps 経験を保有。
+
 ### スキル {#skills}
 
-| 技術/スキル             | 分類                       | 経験年数 |
-| ----------------------- | -------------------------- | -------- |
-| Go                      | 言語                       | 5 年     |
-| AWS                     | クラウド・インフラ         | 5 年     |
-| Docker                  | クラウド・インフラ         | 5 年     |
-| Terraform               | クラウド・インフラ         | 5 年     |
-| DynamoDB                | データベース               | 5 年     |
-| GitHub Actions          | ツール                     | 5 年     |
-| Python                  | 言語                       | 3 年     |
-| MySQL                   | データベース               | 3 年     |
-| PostgreSQL              | データベース               | 3 年     |
-| Redis                   | データベース               | 3 年     |
-| LangChain / LangGraph   | フレームワーク・ライブラリ | 3 年     |
-| gRPC (Protocol Buffers) | 通信プロトコル             | 3 年     |
-| PipeCD                  | ツール                     | 3 年     |
-| Datadog                 | ツール                     | 3 年     |
-| Typescript              | 言語                       | 2 年     |
-| Nuxt.js (Vue.js)        | フレームワーク・ライブラリ | 2 年     |
-| PHP                     | 言語                       | 1 年     |
-| CosmosDB (mongoDB)      | データベース               | 1 年     |
-| Azure                   | クラウド・インフラ         | 1 年     |
+| 技術/スキル                            | 分類                       | 経験年数 |
+| -------------------------------------- | -------------------------- | -------- |
+| Go                                     | 言語                       | 5 年     |
+| Python                                 | 言語                       | 3 年     |
+| TypeScript                             | 言語                       | 2 年     |
+| PHP                                    | 言語                       | 1 年     |
+| AWS (ECS, DynamoDB, SQS, ALB, S3 など) | クラウド・インフラ         | 5 年     |
+| Azure (OpenAI, Cosmos DB)              | クラウド・インフラ         | 1 年     |
+| Docker                                 | クラウド・インフラ         | 5 年     |
+| Terraform (IaC)                        | クラウド・インフラ         | 5 年     |
+| MySQL                                  | データベース               | 5 年     |
+| PostgreSQL                             | データベース               | 3 年     |
+| Redis                                  | データベース               | 3 年     |
+| Azure Cosmos DB (MongoDB API)          | データベース               | 1 年     |
+| gRPC / Protocol Buffers                | ネットワーク・IPC          | 3 年     |
+| GitHub Actions / PipeCD                | CI/CD                      | 3-5 年   |
+| Datadog (APM, Logs, Synthetics)        | オブザーバビリティ         | 3 年     |
+| LangChain / LangGraph / LangSmith      | 生成 AI / LLMOps           | 2-3 年   |
+| Nuxt.js (Vue.js)                       | フレームワーク・ライブラリ | 2 年     |
 
 ### 経験 {#experience}
 
-| スキル/経験                  | 経験年数 |
-| ---------------------------- | -------- |
-| DevOps                       | 3 年     |
-| スクラム開発                 | 3 年     |
-| テックリード                 | 2 年     |
-| エンジニアリングマネージャー | 2 年     |
-| ウォーターフォール開発       | 2 年     |
-| AI ネイティブ開発環境整備    | 2 年     |
-| LLMOps                       | 2 年     |
-| PdM                          | 1 年     |
+| スキル/経験                                               | 経験年数 |
+| --------------------------------------------------------- | -------- |
+| DevOps                                                    | 3 年     |
+| スクラム開発                                              | 3 年     |
+| テックリード                                              | 2 年     |
+| エンジニアリングマネージャー                              | 2 年     |
+| プロジェクトマネジメント（アジャイル/ウォーターフォール） | 2 年     |
+| AI 活用開発ツール・ワークフロー構築                       | 2 年     |
+| LLMOps                                                    | 2 年     |
+| PdM                                                       | 1 年     |
 
 ## 職務経歴 {#work-experience}
 
 ### 2025/06 - 現在 : 某大手小売企業様の DX 案件 - AI 事業本部 {#work-2025-06}
 
-| 項目             | 内容                                                                                                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| プロジェクト規模 | ユーザー数大規模（WAU 400 万、MAU 800 万）<br>チーム構成：PM × 6、バックエンド × 4、フロントエンド × 3、ネイティブ × 4、デザイナー × 2<br>共同開発（外部ベンダー） × 4 社 |
-| 役割             | バックエンドエンジニア                                                                                                                                                    |
-| 使用技術         | Go, Docker, MySQL, gRPC, Envoy, Terraform, AWS, Datadog, k6                                                                                                               |
+#### 成果・責務・技術 {#work-2025-06-overview}
+
+- **成果（Impact）**: WAU 400 万/MAU 800 万の大規模トラフィックを支えるバックエンド基盤の設計・開発に従事。フィーチャーフラグを活用した段階的リリースとテスト戦略により、サービスの安全なグロースを実現
+- **責務（Scope）**: バックエンドエンジニアとして、PM×6、バックエンド ×4、フロントエンド ×3、ネイティブ ×4、デザイナー ×2 のマルチベンダー体制（4 社共同開発）で機能設計・開発を担当
+- **技術（Tech）**: Go, Docker, MySQL, gRPC, Envoy, Terraform, AWS, Datadog, k6
 
 #### 職務内容 {#work-2025-06-responsibilities}
 
@@ -90,11 +94,11 @@ WAU 400 万、MAU 800 万の大規模サービスに成長したプロダクト�
 
 ### 2025/05 - 2025/08： 某大手化学メーカーの特許解析 AI 開発案件 - Galirage, Inc. {#work-2025-05}
 
-| 項目             | 内容                                                                           |
-| ---------------- | ------------------------------------------------------------------------------ |
-| プロジェクト規模 | PM × 1、エンジニア × 4                                                         |
-| 役割             | 生成 AI エンジニア                                                             |
-| 使用技術         | Python (Streamlit, LangChain, LangGraph), LangSmith, Azure, PostgreSQL, Docker |
+#### 成果・責務・技術 {#work-2025-05-overview}
+
+- **成果（Impact）**: 特許文書という専門性の高いドメインにおける RAG システムを構築し、クライアントニーズをプロダクト仕様に落とし込み、PoC 完了後のプロダクト開発を推進
+- **責務（Scope）**: 生成 AI エンジニアとして、PM×1、エンジニア ×4 の体制で特許解析 AI エージェントの設計・実装を担当
+- **技術（Tech）**: Python (Streamlit, LangChain, LangGraph), LangSmith, Azure, PostgreSQL, Docker
 
 #### 職務内容 {#work-2025-05-responsibilities}
 
@@ -110,11 +114,11 @@ PoC 完了後のプロダクト開発フェーズから参画し、クライア�
 
 ### 2025/01 - 2025/05： [Raggle](https://raggle.jp/) の開発およびコンペ開催 - Galirage, Inc. {#work-2025-01}
 
-| 項目             | 内容                                                                                    |
-| ---------------- | --------------------------------------------------------------------------------------- |
-| プロジェクト規模 | コンペ開催一回あたりの参加者数：約 150 名<br>チーム構成：CS × 1、PdM 兼テックリード × 1 |
-| 役割             | PdM 兼テックリード                                                                      |
-| 使用技術         | Python (Streamlit, LangChain), LangSmith, Firebase, GCP, Docker, Rollbar                |
+#### 成果・責務・技術 {#work-2025-01-overview}
+
+- **成果（Impact）**: RAG 回答精度を競うコンペを開催し、1 回あたり約 150 名の参加を実現。評価基盤を構築し、プロダクトの品質向上とユーザー分析によるプロダクト改善サイクルを確立
+- **責務（Scope）**: PdM 兼テックリードとして、CS×1 と共にプロダクトビジョン策定・開発ロードマップ作成・評価基盤設計を推進
+- **技術（Tech）**: Python (Streamlit, LangChain), LangSmith, Firebase, GCP, Docker, Rollbar
 
 #### 職務内容 {#work-2025-01-responsibilities}
 
@@ -136,11 +140,11 @@ RAG の回答精度を競うコンペの開催を実施。
 
 ### 2024/02 - 2025/06 : [サイスケ（Cyber AI Schedule）](https://www.cyberagent.co.jp/news/detail/id=30869) - AI オペレーション室 {#work-2024-02}
 
-| 項目             | 内容                                                                                                                           |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| プロジェクト規模 | PM × 1、エンジニア × 4、データサイエンティスト × 1<br>サイバーエージェント（社員数：約 1 万 1 千人）全社展開済み               |
-| 役割             | 開発責任者兼テックリード                                                                                                       |
-| 使用技術         | Go, Python (LangChain, LangGraph), LangSmith, Docker, PostgreSQL, gRPC, Envoy, Terraform, AWS, Azure (OpenAI), Datadog, PipeCD |
+#### 成果・責務・技術 {#work-2024-02-overview}
+
+- **成果（Impact）**: 社内 2,200 件応募の生成 AI 活用コンテストで最優秀を受賞し、全社（1 万 1 千人）展開を達成。LLM 評価基盤（LangSmith）を構築し、ビジネス側と KPI 共有可能な「回答精度」の可視化を実現。CADC2024 で登壇し、LLMOps 基盤について社外発信
+- **責務（Scope）**: 開発責任者兼テックリードとして、PM×1、エンジニア ×4、データサイエンティスト ×1 の体制で技術選定・アーキテクチャ設計・インフラ構築・要件定義・KPI 設計を主導
+- **技術（Tech）**: Go, Python (LangChain, LangGraph), LangSmith, Docker, PostgreSQL, gRPC, Envoy, Terraform, AWS (ECS/DynamoDB/VPC/ALB/S3/SQS), Azure OpenAI, Datadog, PipeCD
 
 #### 職務内容 {#work-2024-02-responsibilities}
 
@@ -185,6 +189,12 @@ AI がスケジュール参加者を特定するステップにおける、ユ�
 
 ### 2023/04 - 現在 : 新開発拠点設立 - Hanoi Devcenter {#work-2023-04-hanoi}
 
+#### 成果・責務・技術 {#work-2023-04-hanoi-overview}
+
+- **成果（Impact）**: ベトナム・ハノイに新規開発拠点を設立し、現地優秀エンジニアの採用・育成を通じて会社の開発競争力向上に貢献
+- **責務（Scope）**: エンジニア組織のマネジメント、カルチャー推進、採用戦略の立案・実行を担当
+- **技術（Tech）**: 組織設計、採用、育成、グローバル拠点運営
+
 #### 職務内容 {#work-2023-04-hanoi-responsibilities}
 
 ベトナム現地の優秀なエンジニアを採用し、自社の開発競争力をブーストさせるというミッションを掲げて新設された部署の立ち上げ。  
@@ -199,11 +209,11 @@ AI がスケジュール参加者を特定するステップにおける、ユ�
 
 ### 2023/04 - 2024/01: 某大手小売企業様の DX 案件 - AI 事業本部 {#work-2023-04}
 
-| 項目             | 内容                                                                          |
-| ---------------- | ----------------------------------------------------------------------------- |
-| プロジェクト規模 | PM × 10、フロントエンド × 5、バックエンド × 5、ネイティブ × 4、デザイナー × 2 |
-| 役割             | バックエンドエンジニア                                                        |
-| 使用技術         | Go, Docker, MySQL, gRPC, Envoy, Terraform, AWS, Datadog, k6, PipeCD           |
+#### 成果・責務・技術 {#work-2023-04-overview}
+
+- **成果（Impact）**: 600RPS 以上想定の大規模トラフィックに対応したクーポン機能を設計・実装し、負荷試験とパフォーマンスチューニングを実施。オブザーバビリティ基盤整備により、リリース後の監視体制がクライアントから高評価を受け、**保守体制金額を 2 倍獲得**
+- **責務（Scope）**: バックエンドエンジニアとして、PM×10、フロントエンド ×5、バックエンド ×5、ネイティブ ×4、デザイナー ×2 のマルチベンダー体制（4 社協業）でプロダクト立ち上げから本番リリースまで担当
+- **技術（Tech）**: Go, Docker, MySQL, gRPC, Envoy, Terraform, AWS, Datadog, k6, PipeCD
 
 #### 職務内容 {#work-2023-04-responsibilities}
 
@@ -230,11 +240,11 @@ AI がスケジュール参加者を特定するステップにおける、ユ�
 
 ### 2021/04 - 2023/03: リモてなし - AI 事業本部 {#work-2021-04}
 
-| 項目             | 内容                                                                             |
-| ---------------- | -------------------------------------------------------------------------------- |
-| プロジェクト規模 | PM 兼営業 × 7、デザイナー × 1、エンジニア × 10                                   |
-| 役割             | フルスタックエンジニア                                                           |
-| 使用技術         | Go, Docker, MySQL, Terraform, AWS, Typescript, Nuxt.js (Vue.js), Vite, Bucketeer |
+#### 成果・責務・技術 {#work-2021-04-overview}
+
+- **成果（Impact）**: 社内新規事業立案コンテストからの事業化プロダクトで、接客 DX を実現するオンライン接客ツールを開発。Nuxt3 beta 検証を経て Vue3 へのフルリプレイスを完遂。クライアントの潜在ニーズを掘り起こし、商品提案機能などの新機能をリリース
+- **責務（Scope）**: フルスタックエンジニアとして、PM 兼営業 ×7、デザイナー ×1、エンジニア ×10 の体制で要件・デザイン定義から設計・実装まで一気通貫で担当
+- **技術（Tech）**: Go, Docker, MySQL, Terraform, AWS, Typescript, Nuxt.js (Vue.js), Vite, Bucketeer, WebSocket, Pinia
 
 #### 職務内容 {#work-2021-04-responsibilities}
 
@@ -266,11 +276,11 @@ Nuxt3 beta がリリースされたタイミングで、技術検証を担当。
 
 ### 過去の登壇資料 {#presentations}
 
-- [生成 AI の強みと弱みを理解して、生成 AI がもたらすパワーをプロダクトの価値へ繋げるために実践したこと \[CADC2024\]](https://developers.cyberagent.co.jp/blog/archives/50580/)
-- [Recap: Migrating 80 BILLION RECORDS From MySQL to Bigtable](https://speakerdeck.com/takumakurosawa/recap-migrating-80-billion-records-from-mysql-to-bigtable)
-- [Figma → Vue コード自動生成サービスを技術検証してみた](https://speakerdeck.com/takumakurosawa/figma-vue-kodozi-dong-sheng-cheng-sabisuwoji-shu-jian-zheng-sitemita)
-- [VueUse のすすめ](https://speakerdeck.com/takumakurosawa/vue-dot-js-v-tokyo-meetup-16)
-- [僕が Go の設計に対して不思議に思うこと](https://speakerdeck.com/takumakurosawa/pu-gagonoshe-ji-nidui-sitebu-si-yi-nisi-ukoto)
+- [CADC2024（登壇）：生成 AI の強みと弱みを理解して、生成 AI がもたらすパワーをプロダクトの価値へ繋げるために実践したこと](https://developers.cyberagent.co.jp/blog/archives/50580/)
+- [SpeakerDeck（事例報告）：Recap – Migrating 80 Billion Records from MySQL to Bigtable](https://speakerdeck.com/takumakurosawa/recap-migrating-80-billion-records-from-mysql-to-bigtable)
+- [SpeakerDeck：Figma → Vue コード自動生成サービスを技術検証してみた](https://speakerdeck.com/takumakurosawa/figma-vue-kodozi-dong-sheng-cheng-sabisuwoji-shu-jian-zheng-sitemita)
+- [SpeakerDeck：VueUse のすすめ](https://speakerdeck.com/takumakurosawa/vue-dot-js-v-tokyo-meetup-16)
+- [SpeakerDeck：僕が Go の設計に対して不思議に思うこと](https://speakerdeck.com/takumakurosawa/pu-gagonoshe-ji-nidui-sitebu-si-yi-nisi-ukoto)
 
 ### ブログ記事 {#blog-posts}
 
