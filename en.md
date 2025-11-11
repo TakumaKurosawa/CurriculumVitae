@@ -103,7 +103,7 @@ Backend/Platform & AI Tech Lead (5+ yrs). Led a company-wide GenAI product (11k+
 
 _Note: Top prize in internal GenAI contest with ~2,200 submissions._
 
-### Apr 2023 – Present: New Development Base Establishment – Hanoi Dev Center
+### Apr 2023 – Present: New Overseas Development Base Establishment – Hanoi Dev Center
 
 #### Impact • Scope • Tech
 

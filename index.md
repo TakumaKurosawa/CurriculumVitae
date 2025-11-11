@@ -141,7 +141,7 @@ AI がスケジュール参加者を特定するステップにおける、ユ�
 - 生成 AI を活用したアプリケーションの設計および構築
 - Azure OpenAI Service, LangChain / LangGraph, Langsmith といった生成 AI アプリケーションを構築するために必要なスキル
 
-### 2023/04 - 現在 : 新開発拠点設立 - Hanoi Devcenter {#work-2023-04-hanoi}
+### 2023/04 - 現在 : 海外新開発拠点設立 - Hanoi Devcenter {#work-2023-04-hanoi}
 
 #### 成果・責務・技術 {#work-2023-04-hanoi-overview}
 
