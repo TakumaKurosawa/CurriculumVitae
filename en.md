@@ -85,32 +85,6 @@ Backend/Platform & AI Tech Lead (5+ yrs). Led a company-wide GenAI product (11k+
 - Implemented a feature-flag strategy for safe, incremental releases
 - Designed and executed comprehensive test strategies for large-scale services
 
-### May 2025 – Aug 2025: AI Development Project for Patent Analysis at a Major Chemical Company – Galirage, Inc.
-
-#### Impact • Scope • Tech
-
-- **Impact**: Built RAG system in highly specialized domain (patent documents); translated client needs into product specifications and drove product development after PoC completion
-- **Scope**: Generative AI engineer in team of PM×1 and Engineer×4, responsible for designing and implementing patent analysis AI agent
-- **Tech**: Python (Streamlit, LangChain, LangGraph), LangSmith, Azure, PostgreSQL, Docker
-
-#### Key Achievements
-
-- Built a production-ready RAG system for patent literature (domain-specific retrieval; evaluation via LangSmith with LLM-as-a-judge and rubric-based scoring), bridging client requirements to technical specs post-PoC as the Generative AI engineer
-
-### Jan 2025 – May 2025: Development of [Raggle](https://raggle.jp/) and Competition Hosting – Galirage, Inc.
-
-#### Impact • Scope • Tech
-
-- **Impact**: Hosted RAG answer accuracy competitions with ~150 participants per event; built evaluation infrastructure and established product quality improvement cycle through user analysis
-- **Scope**: PdM and Tech Lead working with CS×1, responsible for product vision, development roadmap, and evaluation infrastructure design
-- **Tech**: Python (Streamlit, LangChain), LangSmith, Firebase, GCP, Docker, Rollbar
-
-#### Key Achievements
-
-- Built evaluation pipeline for RAG competition platform (LLM-as-a-judge, LangSmith)
-- Led product vision and roadmap as PdM; drove data-informed iterations
-- Scaled competition hosting to ~150 participants with automated scoring infrastructure
-
 ### Feb 2024 – Jun 2025: [Cyber AI Scheduler](https://www.cyberagent.co.jp/news/detail/id=30869) – AI Operations Unit
 
 #### Impact • Scope • Tech
@@ -171,6 +145,34 @@ _Note: Top prize in internal GenAI contest with ~2,200 submissions._
 - Designed and shipped real-time product proposal feature (WebSocket + Pinia) enabling live commerce experience
 - Collaborated across disciplines (design/business) to extract client needs and drive feature proposals from requirements to release
 - Built full-stack features end-to-end: requirements, UI/UX design (Figma), implementation, and production deployment
+
+## Side Work
+
+### May 2025 – Aug 2025: AI Development Project for Patent Analysis at a Major Chemical Company – Galirage, Inc.
+
+#### Impact • Scope • Tech
+
+- **Impact**: Built RAG system in highly specialized domain (patent documents); translated client needs into product specifications and drove product development after PoC completion
+- **Scope**: Generative AI engineer in team of PM×1 and Engineer×4, responsible for designing and implementing patent analysis AI agent
+- **Tech**: Python (Streamlit, LangChain, LangGraph), LangSmith, Azure, PostgreSQL, Docker
+
+#### Key Achievements
+
+- Built a production-ready RAG system for patent literature (domain-specific retrieval; evaluation via LangSmith with LLM-as-a-judge and rubric-based scoring), bridging client requirements to technical specs post-PoC as the Generative AI engineer
+
+### Jan 2025 – May 2025: Development of [Raggle](https://raggle.jp/) and Competition Hosting – Galirage, Inc.
+
+#### Impact • Scope • Tech
+
+- **Impact**: Hosted RAG answer accuracy competitions with ~150 participants per event; built evaluation infrastructure and established product quality improvement cycle through user analysis
+- **Scope**: PdM and Tech Lead working with CS×1, responsible for product vision, development roadmap, and evaluation infrastructure design
+- **Tech**: Python (Streamlit, LangChain), LangSmith, Firebase, GCP, Docker, Rollbar
+
+#### Key Achievements
+
+- Built evaluation pipeline for RAG competition platform (LLM-as-a-judge, LangSmith)
+- Led product vision and roadmap as PdM; drove data-informed iterations
+- Scaled competition hosting to ~150 participants with automated scoring infrastructure
 
 ## Output
 
